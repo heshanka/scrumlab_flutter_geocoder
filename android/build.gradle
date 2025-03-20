@@ -1,4 +1,3 @@
-group 'br.com.scrumlab.scrumlab_geocoder'
 version '1.0'
 
 buildscript {
